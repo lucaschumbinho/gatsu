@@ -34,14 +34,6 @@ h1{
     padding: 2%;
     background-color: #FFE4E1; 
 }
-nav {
-    position: absolute;
-    bottom: auto;
-    top: 38%;
-    right: 10%;
-    margin-left: 45%;
-    font-size: 30px; font-family: monospace;
-    }
 .principal{
 	
     font-size: 40px;
@@ -63,19 +55,6 @@ p{
     text-align: justify;
     margin: 0 5px 0 25px;
 }   
-nav ul{
-    display: block;
-    text-align: end;
-    margin-bottom: auto;
-}
-nav li{
-    display: inline;
-   }
-nav a{
-    text-decoration: none;
-    color: rgba(255, 0, 43, 0.712);
-    font-size: 100%;
-}
 .home{
     margin-top: 10%;
     text-decoration: none;
